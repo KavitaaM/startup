@@ -1,0 +1,34 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(pic13.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+  color:rgb(19, 17, 17);
+}
+
+.btn{
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+.btn:hover{
+  border-color: rgb(12, 15, 14);
+}
+.btn-light{
+  background-color:rgb(42, 165, 165);
+  border-color: rgb(12, 15, 14);
+}
+.btn-xl{
+  padding: 1rem 2rem;
+}
+hr{
+border-color:rgb(12, 14, 13);
+border-width: 3px;
+  max-width:150px;
+}
